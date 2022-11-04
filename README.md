@@ -1,22 +1,20 @@
-# CityCoins <!-- omit in TOC -->
-
-[![Contract Tests](https://github.com/citycoins/citycoin/actions/workflows/test-contract.yaml/badge.svg)](https://github.com/citycoins/citycoin/actions/workflows/test-contract.yaml) [![codecov.io](https://codecov.io/github/citycoins/citycoin/coverage.svg?branch=main)](https://codecov.io/github/citycoins/citycoin?branch=main) [![Discord Chat](https://img.shields.io/discord/856920147381190717?label=Discord)](https://discord.com/invite/tANUVBz9bk)
+# Particles <!-- omit in TOC -->
 
 ## Introduction <!-- omit in TOC -->
 
-CityCoins give communities the power to improve and program their cities.
+Particles provides a new way to fund mental health care. 
 
 - [Contributing](#contributing)
 - [Testing](#testing)
 - [Definitions, Resources, and Links](#definitions-resources-and-links)
-  - [CityCoins v1.0.0 Audit](#citycoins-v100-audit)
-  - [CityCoins Resources](#citycoins-resources)
+  - [Particles v1.0.0 Audit](#citycoins-v100-audit)
+  - [Particles Resources](#particles-resources)
   - [Additional Resources](#additional-resources)
 - [References](#references)
 
 ## Contributing
 
-PRs are welcome! Please see the [open issues](https://github.com/citycoins/citycoin/issues) and comment if interested, or submit a PR for review.
+PRs are welcome! Please see the [open issues](https://github.com/withnucleus/particles/issues) and comment if interested, or submit a PR for review.
 
 All code submitted should be thoroughly commented and tested where applicable.
 
@@ -61,15 +59,7 @@ CoinFabrik [completed an audit on v1.0.0 of the protocol](https://blog.coinfabri
 
 The [resulting audit report](./audit/coinfabrik-citycoins-audit-v1.0.0.pdf) is available in this repo, as well as the [CityCoins developer responses](./audit/coinfabrik-citycoins-audit-v1.0.0-developer-responses.pdf).
 
-### CityCoins Resources
-
-- [CityCoins Website](https://citycoins.co)
-- [CityCoins API](https://api.citycoins.co/docs)
-- [CityCoins Documentation](https://docs.citycoins.co)
-- [CityCoins Discord](https://chat.citycoins.co)
-- [CityCoins Twitter](https://twitter.com/mineCityCoins)
-
-### Additional Resources
+### Resources
 
 Some quick definitions and additional resources related to the technology behind the project.
 
